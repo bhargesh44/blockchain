@@ -64,7 +64,7 @@ function App() {
               <div className="text-black-50">
                 Don't have a Blockchain Account?
               </div>
-              <div className="text-primary"> &nbsp; Sign up Now -></div>
+              <div className="text-primary"> &nbsp; Sign up Now </div>
             </div>
           </div>
         </div>
